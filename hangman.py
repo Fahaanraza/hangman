@@ -1,6 +1,6 @@
 import random
-wordlist = ["mouse", "banana", "fahaan", "king", "chaithanya",
-            "bhabya", "sharan", "minaj", "munaf", "ershad"]
+wordlist = ["mouse", "banana", "grow", "king", "chalk",
+            "clever", "sharan", "mindset", "munnar", "eraser"]
 choosen = random.choice(wordlist)
 print(choosen)
 chos_length = len(choosen)
